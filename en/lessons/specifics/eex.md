@@ -59,7 +59,7 @@ By default there are four supported tags in EEx:
 <%# Comments - they are discarded from source %>
 ```
 
-All expressions that wish to output __must__ use the equals sign (`=`).
+All expressions that you wish to output __must__ use the equals sign (`=`).
 It's important to note that while other templating languages treat clauses like `if` in a special way, EEx does not.
 Without `=` nothing will be output:
 
